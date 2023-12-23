@@ -1,0 +1,22 @@
+Script started on 2021-08-23 14:01:54-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]777;notify;Command completed;exit\]0;006799085@csusb.edu@jb359-21:~/cse2020/Lab01\]7;file://jb359-21.cse.csusb.edu/home/csusb.edu/006799085/cse2020/Lab01\[006799085@csusb.edu@jb359-21 Lab01]$ make lab01
+make: 'lab01' is up to date.
+]777;notify;Command completed;make lab01\]0;006799085@csusb.edu@jb359-21:~/cse2020/Lab01\]7;file://jb359-21.cse.csusb.edu/home/csusb.edu/006799085/cse2020/Lab01\[006799085@csusb.edu@jb359-21 Lab01]$ ls
+funcs.cpp  funcs.o  lab01.cpp     lab01.o
+funcs.h    [0m[38;5;40mlab01[0m    lab01log.txt  search.txt
+]777;notify;Command completed;ls\]0;006799085@csusb.edu@jb359-21:~/cse2020/Lab01\]7;file://jb359-21.cse.csusb.edu/home/csusb.edu/006799085/cse2020/Lab01\[006799085@csusb.edu@jb359-21 Lab01]$ ./lab01
+The array: 
+63 60 61 81 83 15 51 68 48 13 43 35 91 31 98 33 79 55 34 20 65 17 84 90 86 26 97 58 53 14 27 46 23 50 85 49 21 75 11 10 87 93 88 19 82 24 57 99 80 12 74 39 16 22 42 56 36 76 64 18 
+Enter the key: 3
+
+The key 3 is NOT in the array
+]777;notify;Command completed;./lab01\]0;006799085@csusb.edu@jb359-21:~/cse2020/Lab01\]7;file://jb359-21.cse.csusb.edu/home/csusb.edu/006799085/cse2020/Lab01\[006799085@csusb.edu@jb359-21 Lab01]$ ./lab01
+The array: 
+63 60 61 81 83 15 51 68 48 13 43 35 91 31 98 33 79 55 34 20 65 17 84 90 86 26 97 58 53 14 27 46 23 50 85 49 21 75 11 10 87 93 88 19 82 24 57 99 80 12 74 39 16 22 42 56 36 76 64 18 
+Enter the key: 50
+
+The key 50 is at the index 33
+]777;notify;Command completed;./lab01\]0;006799085@csusb.edu@jb359-21:~/cse2020/Lab01\]7;file://jb359-21.cse.csusb.edu/home/csusb.edu/006799085/cse2020/Lab01\[006799085@csusb.edu@jb359-21 Lab01]$ exo[Kit
+exit
+
+Script done on 2021-08-23 14:02:37-07:00 [COMMAND_EXIT_CODE="0"]
